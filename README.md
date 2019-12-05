@@ -1,2 +1,2 @@
 # Adrians-Landfill
-Look upon my failed code, ye mighty, and despair
+"Look upon my works, ye mighty, and despair." - Percy Shelley
